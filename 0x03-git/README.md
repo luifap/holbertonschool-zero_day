@@ -36,3 +36,5 @@ Los enlaces relativos son más fáciles para los usuarios que clonan su reposito
 Otras lecturas
 " Agregar un archivo a un repositorio "
 18F's " Haciendo legibles los READMEs "
+CReditos:
+Luisa Arboleda.
