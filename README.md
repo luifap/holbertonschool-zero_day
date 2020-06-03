@@ -179,6 +179,6 @@ Las definiciones pueden estar en cualquier parte del documento
 
 Markdown convierte texto a HTML .
 
-Créditos
-Desarrolladores
+Creditos
+Desarrolladora
 Luisa Arboleda
